@@ -1,0 +1,53 @@
+1
+justify-end
+
+2
+justify-center
+
+3
+justify-around
+
+4
+justify-between
+
+5
+items-center
+
+6
+justify-center items-center
+
+7
+justify-center justify-around items-end
+
+8
+flex-row-reverse
+
+9
+flex-col
+
+10
+items-end justify-center flex-col-reverse
+
+11
+order-last
+
+12
+order-first
+
+13
+self-center
+
+14
+order-last self-end
+
+15
+flex-wrap
+
+16
+flex-wrap-reverse justify-end
+
+17
+content-between
+
+18
+flex-wrap-reverse justify-center content-center
